@@ -1,32 +1,20 @@
 [
-   {
-    "model": "56cm LED Bar mit KK",
+  {
+    "model": "Quantum Board mit KK",
     "seller": "kingbrite",
     "led": "LM301B",
-    "parallel_count": 8,
-    "series_count": 16,
+    "parallel_count": 18,
+    "series_count": 15,
     "dimensions": {
-      "length": 560.0,
-      "width": 55.0
+      "length": 326.0,
+      "width": 195.0
     },
     "versions": [
       {
-        "product_code": "productgrouplist-816964952/Single_Bar_L560mm.html",
-        "cct": 3000,
-        "cri": 80,
-        "price": 20.53
-      },
-      {
-        "product_code": "productgrouplist-816964952/Single_Bar_L560mm.html",
+        "product_code": "productgrouplist-812040035/QB_Board_Part_list.html",
         "cct": 3500,
         "cri": 80,
-        "price": 20.53
-      },
-      {
-        "product_code": "productgrouplist-816964952/Single_Bar_L560mm.html",
-        "cct": 4000,
-        "cri": 80,
-        "price": 20.53
+        "price": 36.44
       }
     ]
   }
