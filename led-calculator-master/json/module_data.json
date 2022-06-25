@@ -1,0 +1,33 @@
+[
+   {
+    "model": "56cm LED Bar mit KK",
+    "seller": "kingbrite",
+    "led": "LM301B",
+    "parallel_count": 8,
+    "series_count": 16,
+    "dimensions": {
+      "length": 560.0,
+      "width": 55.0
+    },
+    "versions": [
+      {
+        "product_code": "productgrouplist-816964952/Single_Bar_L560mm.html",
+        "cct": 3000,
+        "cri": 80,
+        "price": 20.53
+      },
+      {
+        "product_code": "productgrouplist-816964952/Single_Bar_L560mm.html",
+        "cct": 3500,
+        "cri": 80,
+        "price": 20.53
+      },
+      {
+        "product_code": "productgrouplist-816964952/Single_Bar_L560mm.html",
+        "cct": 4000,
+        "cri": 80,
+        "price": 20.53
+      }
+    ]
+  }
+]
