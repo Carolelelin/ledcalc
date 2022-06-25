@@ -1,6 +1,31 @@
 [
   {
-    "model": "Quantum Board mit KK",
+    "model": "KingBrite Board 120W",
+    "seller": "kingbrite",
+    "led": "LM301B",
+    "parallel_count": 18,
+    "series_count": 16,
+    "dimensions": {
+      "length": 326.0,
+      "width": 195.0
+    },
+    "versions": [
+      {
+        "product_code": "productgrouplist-812040035/QB_Board_Part_list.html",
+        "cct": 3000,
+        "cri": 80,
+        "price": 36.44
+      },
+      {
+        "product_code": "productgrouplist-812040035/QB_Board_Part_list.html",
+        "cct": 3500,
+        "cri": 80,
+        "price": 36.44
+      }
+    ]
+  },
+  {
+    "model": "KingBrite Board 120W UV IR OFF",
     "seller": "kingbrite",
     "led": "LM301B",
     "parallel_count": 18,
@@ -11,7 +36,13 @@
     },
     "versions": [
       {
-        "product_code": "productgrouplist-812040035/QB_Board_Part_list.html",
+        "product_code": "productgrouplist-823795516/LM301H_CREE_LG_UV_385nm.html",
+        "cct": 3000,
+        "cri": 80,
+        "price": 36.44
+      },
+      {
+        "product_code": "productgrouplist-823795516/LM301H_CREE_LG_UV_385nm.html",
         "cct": 3500,
         "cri": 80,
         "price": 36.44
